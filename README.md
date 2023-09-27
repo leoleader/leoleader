@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Argos, Data Visualization Tool for NER](https://github.com/Northeastern-Electric-Racing/Argos)
 
-- 🌱 I’m currently studying **Artificial Intelligence, Graph Theory**
+- 🌱 I’m currently studying **Artificial Intelligence, Soft Dev, Graph Theory**
 
 - 📝 I regularly write articles on [https://leoleader.github.io/menagerie/](https://leoleader.github.io/menagerie/)
 
