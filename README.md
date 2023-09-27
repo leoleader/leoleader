@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dylan McCann</h1>
-<h3 align="center">A passionate software engineering student @ NEU</h3>
+<h3 align="center">Passionate software engineer, CS/MATH @ NEU</h3>
 
 - 🔭 I’m currently working on [Argos, Data Visualization Tool for NER](https://github.com/Northeastern-Electric-Racing/Argos)
 
