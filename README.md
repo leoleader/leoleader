@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently studying **Artificial Intelligence, Soft Dev, Graph Theory**
 
-- 📝 I regularly write articles on [https://leoleader.github.io/menagerie/](https://leoleader.github.io/menagerie/)
+- 📝 Check out my website! [https://leoleader.github.io/menagerie/](https://leoleader.github.io/menagerie/)
 
 - 📫 How to reach me **mccann.d@northeastern.edu**
 
