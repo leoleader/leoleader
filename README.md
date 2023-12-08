@@ -2,6 +2,7 @@
 <h3 align="center">Passionate software engineer, CS/MATH @ NEU</h3>
 
 - 🔭 I’m currently working on [Argos, Data Visualization Tool for NER](https://github.com/Northeastern-Electric-Racing/Argos)
+  and [BlockBot - Tetris AI](https://github.com/leoleader/tetris)
 
 - 🌱 I’m currently studying **Artificial Intelligence, Soft Dev, Graph Theory**
 
